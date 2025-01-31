@@ -1,4 +1,4 @@
-# CodeRush - Compile and Execute code in 40+ languages
+# CodeCompiler - Compile and Execute code in 40+ languages
 
 ⚡️ A code editor that compiles and runs your code on the web.
 
